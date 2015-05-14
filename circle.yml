@@ -1,0 +1,3 @@
+notify:
+    webhooks:
+          - url: http://project-monitor-staging.cfapps.io/projects/2f104935-6215-452c-9b03-b3926b1ff396/status
